@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 
 ## <div>References</div>
-highway envirenment:[https://github.com/Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv)
+highway envirenment:[https://github.com/Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv)  
 stable baseline 3:[https://github.com/DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3)
 
 ## <div>Citation</div>
