@@ -1,4 +1,9 @@
-# awake_drowsy_detector
-This project is 2022 graduation project from YZU. Using yolov5 and knowledge distillation to recognize if student is drowsy or awake.
-# Project ppt
-[107-22-簡報v2.pptx](https://github.com/gordanLiang/awake_drowsy_detector/files/12568115/107-22-.v2.pptx)
+#Install
+Using conda envirenment python==3.8
+```bash
+intstall requirements with 
+pip install -r requirements.txt
+```
+##References
+highway envirenment:https://github.com/Farama-Foundation/HighwayEnv
+stable baseline 3:https://github.com/DLR-RM/stable-baselines3
