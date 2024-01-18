@@ -1,6 +1,9 @@
 ## <div>Install</div>
 
-Using conda envirenment python==3.8,  
+Using conda envirenment python==3.8  
+```bash
+conda create -n <env name> python=3.8
+```
 intstall requirements with 
 ```bash
 pip install -r requirements.txt
