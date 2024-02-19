@@ -1,0 +1,4 @@
+#python==3.8
+highway-env
+stable-baselines3[extra]
+tensorflow==2.13.1
