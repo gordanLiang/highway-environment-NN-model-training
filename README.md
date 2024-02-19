@@ -1,7 +1,7 @@
 ## <div>Install</div>
 First git clone 
 ```bash
-git clone 
+git clone https://github.com/gordanLiang/highway-environment-NN-model-training.git
 ```
 Using conda envirenment python==3.8  
 ```bash
