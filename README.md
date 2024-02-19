@@ -1,5 +1,8 @@
 ## <div>Install</div>
-
+First git clone 
+```bash
+git clone 
+```
 Using conda envirenment python==3.8  
 ```bash
 conda create -n <env name> python=3.8
