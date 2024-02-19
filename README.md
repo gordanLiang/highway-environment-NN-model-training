@@ -3,9 +3,17 @@ First git clone
 ```bash
 git clone https://github.com/gordanLiang/highway-environment-NN-model-training.git
 ```
+cd to file
+```bash
+cd .../highway-environment-NN-model-training
+```
 Using conda envirenment python==3.8  
 ```bash
 conda create -n <env name> python=3.8
+```
+activate environment
+```bash
+conda activate <env name>
 ```
 intstall requirements with 
 ```bash
