@@ -7,7 +7,7 @@ cd to file
 ```bash
 cd .../highway-environment-NN-model-training
 ```
-Using conda envirenment python==3.8  
+Using conda environment python==3.8  
 ```bash
 conda create -n <env name> python=3.8
 ```
