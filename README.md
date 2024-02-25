@@ -5,7 +5,7 @@ git clone https://github.com/gordanLiang/highway-environment-NN-model-training.g
 ```
 cd to file
 ```bash
-cd .../highway-environment-NN-model-training
+cd highway-environment-NN-model-training
 ```
 Using conda environment python==3.8  
 ```bash
