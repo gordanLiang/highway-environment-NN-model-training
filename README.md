@@ -1,5 +1,5 @@
 ## <div>System Requirement</div>
-windows : tensorflow=2.13.0
+windows : tensorflow=2.13.0  
 ubuntu 18.04 : tensorflow=2.13.1
 
 ## <div>Install</div>
